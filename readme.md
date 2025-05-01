@@ -1,5 +1,7 @@
 # 🧊 Simple Model Viewer Project
 
+![project2](https://github.com/user-attachments/assets/52e3b861-de5a-4511-9531-6276bf975cfc)
+
 ## 📘 Introduction
 
 This is a simple 3D model viewer project built using OpenGL. It renders a single cube model with different textures and lighting conditions to help visualize how surface appearance changes based on material and lighting. The project demonstrates how 3D and 2D camera systems can coexist—one used for rendering 3D models and the other for UI elements.
